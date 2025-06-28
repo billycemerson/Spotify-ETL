@@ -1,0 +1,804 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
+        },
+        "href": "https://api.spotify.com/v1/albums/0y9i2KHDYh2gKfbpUNiM86",
+        "id": "0y9i2KHDYh2gKfbpUNiM86",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c800b90e2092a5328f699117",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c800b90e2092a5328f699117",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c800b90e2092a5328f699117",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Membangun & Menghancurkan",
+        "release_date": "2024-08-30",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:0y9i2KHDYh2gKfbpUNiM86"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277944,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA052402782"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0daEJMXc3b4ZMTnvtHpuTt",
+      "id": "0daEJMXc3b4ZMTnvtHpuTt",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Nina",
+      "popularity": 83,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:0daEJMXc3b4ZMTnvtHpuTt"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
+        },
+        "href": "https://api.spotify.com/v1/albums/0y9i2KHDYh2gKfbpUNiM86",
+        "id": "0y9i2KHDYh2gKfbpUNiM86",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c800b90e2092a5328f699117",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c800b90e2092a5328f699117",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c800b90e2092a5328f699117",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Membangun & Menghancurkan",
+        "release_date": "2024-08-30",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:0y9i2KHDYh2gKfbpUNiM86"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 288981,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA082464599"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4XHijJfABTtUCW3Bp6KFvr",
+      "id": "4XHijJfABTtUCW3Bp6KFvr",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tarot",
+      "popularity": 84,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:4XHijJfABTtUCW3Bp6KFvr"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
+        },
+        "href": "https://api.spotify.com/v1/albums/0y9i2KHDYh2gKfbpUNiM86",
+        "id": "0y9i2KHDYh2gKfbpUNiM86",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c800b90e2092a5328f699117",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c800b90e2092a5328f699117",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c800b90e2092a5328f699117",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Membangun & Menghancurkan",
+        "release_date": "2024-08-30",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:0y9i2KHDYh2gKfbpUNiM86"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 305868,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA082464594"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2WXXgjU6foIi4FBIPDMf9t"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2WXXgjU6foIi4FBIPDMf9t",
+      "id": "2WXXgjU6foIi4FBIPDMf9t",
+      "is_local": false,
+      "is_playable": true,
+      "name": "o,Tuan",
+      "popularity": 82,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:2WXXgjU6foIi4FBIPDMf9t"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3xlryrSJ3mQ3eY4CGd9ow5"
+        },
+        "href": "https://api.spotify.com/v1/albums/3xlryrSJ3mQ3eY4CGd9ow5",
+        "id": "3xlryrSJ3mQ3eY4CGd9ow5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a8701a073f15323f29e39d56",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a8701a073f15323f29e39d56",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a8701a073f15323f29e39d56",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Peradaban",
+        "release_date": "2018-07-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3xlryrSJ3mQ3eY4CGd9ow5"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 339000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "QZDA61833097"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4YxEeCKhUl1DawPzsxCPbq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4YxEeCKhUl1DawPzsxCPbq",
+      "id": "4YxEeCKhUl1DawPzsxCPbq",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Peradaban",
+      "popularity": 76,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4YxEeCKhUl1DawPzsxCPbq"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6SkKvMB1eykgdm8sXzddTc"
+        },
+        "href": "https://api.spotify.com/v1/albums/6SkKvMB1eykgdm8sXzddTc",
+        "id": "6SkKvMB1eykgdm8sXzddTc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734882b70b50a67a05b132ec06",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024882b70b50a67a05b132ec06",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514882b70b50a67a05b132ec06",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Kami Belum Tentu",
+        "release_date": "2018-09-14",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6SkKvMB1eykgdm8sXzddTc"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 233310,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FR96X1801871"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/38yM3PwNtTSsb8UqEgqaUl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/38yM3PwNtTSsb8UqEgqaUl",
+      "id": "38yM3PwNtTSsb8UqEgqaUl",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kami Belum Tentu",
+      "popularity": 73,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:38yM3PwNtTSsb8UqEgqaUl"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2G8ReruW8fC2xNBSoM9I8B"
+        },
+        "href": "https://api.spotify.com/v1/albums/2G8ReruW8fC2xNBSoM9I8B",
+        "id": "2G8ReruW8fC2xNBSoM9I8B",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732692d77a74b0da1756009e98",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022692d77a74b0da1756009e98",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512692d77a74b0da1756009e98",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Berita Kehilangan",
+        "release_date": "2018-08-10",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:2G8ReruW8fC2xNBSoM9I8B"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0AfALT2vJawmPIQOxdfO5N"
+          },
+          "href": "https://api.spotify.com/v1/artists/0AfALT2vJawmPIQOxdfO5N",
+          "id": "0AfALT2vJawmPIQOxdfO5N",
+          "name": "Rayssa Dynta",
+          "type": "artist",
+          "uri": "spotify:artist:0AfALT2vJawmPIQOxdfO5N"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 259852,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FR59R1875662"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1OGXIoBfCR3vQSgcMY9Or4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1OGXIoBfCR3vQSgcMY9Or4",
+      "id": "1OGXIoBfCR3vQSgcMY9Or4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Berita Kehilangan",
+      "popularity": 70,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1OGXIoBfCR3vQSgcMY9Or4"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
+        },
+        "href": "https://api.spotify.com/v1/albums/0y9i2KHDYh2gKfbpUNiM86",
+        "id": "0y9i2KHDYh2gKfbpUNiM86",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c800b90e2092a5328f699117",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c800b90e2092a5328f699117",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c800b90e2092a5328f699117",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Membangun & Menghancurkan",
+        "release_date": "2024-08-30",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:0y9i2KHDYh2gKfbpUNiM86"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 270242,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA082464593"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1LDYaddflYM0ht2DnSLS4s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1LDYaddflYM0ht2DnSLS4s",
+      "id": "1LDYaddflYM0ht2DnSLS4s",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Arteri",
+      "popularity": 70,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:1LDYaddflYM0ht2DnSLS4s"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1n1ZWkeMmGeVuKOKjnmYaO"
+        },
+        "href": "https://api.spotify.com/v1/albums/1n1ZWkeMmGeVuKOKjnmYaO",
+        "id": "1n1ZWkeMmGeVuKOKjnmYaO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf3e3b7cec2030618845107b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf3e3b7cec2030618845107b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf3e3b7cec2030618845107b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Tarian Penghancur Raya",
+        "release_date": "2019-11-08",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1n1ZWkeMmGeVuKOKjnmYaO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240000,
+      "explicit": true,
+      "external_ids": {
+        "isrc": "FR96X1997400"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5vyvUHRYcvFx6aINr6xDpr"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5vyvUHRYcvFx6aINr6xDpr",
+      "id": "5vyvUHRYcvFx6aINr6xDpr",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tarian Penghancur Raya",
+      "popularity": 67,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5vyvUHRYcvFx6aINr6xDpr"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+            },
+            "href": "https://api.spotify.com/v1/artists/1eblwVFP5H4whVZrYmXQLl",
+            "id": "1eblwVFP5H4whVZrYmXQLl",
+            "name": "The Panturas",
+            "type": "artist",
+            "uri": "spotify:artist:1eblwVFP5H4whVZrYmXQLl"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6pKRaekZWZj8TeQXCPpPOS"
+        },
+        "href": "https://api.spotify.com/v1/albums/6pKRaekZWZj8TeQXCPpPOS",
+        "id": "6pKRaekZWZj8TeQXCPpPOS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab6a5aee5e51ec75ea0bf82b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab6a5aee5e51ec75ea0bf82b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab6a5aee5e51ec75ea0bf82b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Gelora",
+        "release_date": "2019-11-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6pKRaekZWZj8TeQXCPpPOS"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+          },
+          "href": "https://api.spotify.com/v1/artists/1eblwVFP5H4whVZrYmXQLl",
+          "id": "1eblwVFP5H4whVZrYmXQLl",
+          "name": "The Panturas",
+          "type": "artist",
+          "uri": "spotify:artist:1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 183134,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FRX201944800"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ywPDpN6mmGK8bqTH1Bgxf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ywPDpN6mmGK8bqTH1Bgxf",
+      "id": "7ywPDpN6mmGK8bqTH1Bgxf",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Gelora",
+      "popularity": 66,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7ywPDpN6mmGK8bqTH1Bgxf"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+            "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+            "name": ".Feast",
+            "type": "artist",
+            "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0OKRjCw5ZtEFDIhPGvEyae"
+        },
+        "href": "https://api.spotify.com/v1/albums/0OKRjCw5ZtEFDIhPGvEyae",
+        "id": "0OKRjCw5ZtEFDIhPGvEyae",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273471f8a4822a3ca180612d006",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02471f8a4822a3ca180612d006",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851471f8a4822a3ca180612d006",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Abdi Lara Insani",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:0OKRjCw5ZtEFDIhPGvEyae"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266151,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR59R2226539"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Li1q9Z1AyDQbpadhERTPU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3Li1q9Z1AyDQbpadhERTPU",
+      "id": "3Li1q9Z1AyDQbpadhERTPU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Gugatan Rakyat Semesta",
+      "popularity": 65,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3Li1q9Z1AyDQbpadhERTPU"
+    }
+  ]
+}

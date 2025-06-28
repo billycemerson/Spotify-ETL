@@ -1,0 +1,480 @@
+{
+  "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12/albums?offset=0&limit=10&market=ID&include_groups=album,single,compilation,appears_on",
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12/albums?offset=10&limit=10&market=ID&include_groups=album,single,compilation,appears_on",
+  "offset": 0,
+  "previous": null,
+  "total": 48,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU"
+      },
+      "href": "https://api.spotify.com/v1/albums/6HiRRMXgflIyrpjCiPW8rU",
+      "id": "6HiRRMXgflIyrpjCiPW8rU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27305898628baab6ef07a0a4d03",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0205898628baab6ef07a0a4d03",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485105898628baab6ef07a0a4d03",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Doves, '25 on Blank Canvas",
+      "release_date": "2025-02-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6HiRRMXgflIyrpjCiPW8rU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 28,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8"
+      },
+      "href": "https://api.spotify.com/v1/albums/0DMdiWcqnutCi81EqBXkF8",
+      "id": "0DMdiWcqnutCi81EqBXkF8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27349bdf0e981cbba25d48b44e0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0249bdf0e981cbba25d48b44e0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485149bdf0e981cbba25d48b44e0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Lagipula Hidup Akan Berakhir",
+      "release_date": "2023-07-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0DMdiWcqnutCi81EqBXkF8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+      "id": "1DAuVHMlBvIjzWZALSUXbn",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Menari Dengan Bayangan",
+      "release_date": "2019-11-29",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6v7H5Z1KzDz9xb2XOyWCqZ"
+      },
+      "href": "https://api.spotify.com/v1/albums/6v7H5Z1KzDz9xb2XOyWCqZ",
+      "id": "6v7H5Z1KzDz9xb2XOyWCqZ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b2ca5186c969f115f0be8e66",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b2ca5186c969f115f0be8e66",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b2ca5186c969f115f0be8e66",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Jika",
+      "release_date": "2025-01-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6v7H5Z1KzDz9xb2XOyWCqZ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
+          },
+          "href": "https://api.spotify.com/v1/artists/3jAIDtaFDAHtuP5qU6Hgny",
+          "id": "3jAIDtaFDAHtuP5qU6Hgny",
+          "name": "Danilla",
+          "type": "artist",
+          "uri": "spotify:artist:3jAIDtaFDAHtuP5qU6Hgny"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
+      },
+      "href": "https://api.spotify.com/v1/albums/0a28dOkcC53FjmLwNpVEOm",
+      "id": "0a28dOkcC53FjmLwNpVEOm",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273461174d0c68db545494dda65",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02461174d0c68db545494dda65",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851461174d0c68db545494dda65",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "right where you left me",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0a28dOkcC53FjmLwNpVEOm",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+          },
+          "href": "https://api.spotify.com/v1/artists/0kX41bvrBQtgqSEXbmTzMN",
+          "id": "0kX41bvrBQtgqSEXbmTzMN",
+          "name": "eaJ",
+          "type": "artist",
+          "uri": "spotify:artist:0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VSBJPq9DNX2HERo1nBUZW"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VSBJPq9DNX2HERo1nBUZW",
+      "id": "2VSBJPq9DNX2HERo1nBUZW",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273d8ddd4ebd8a11dc83cf58b95",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02d8ddd4ebd8a11dc83cf58b95",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851d8ddd4ebd8a11dc83cf58b95",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Setiap Waktu",
+      "release_date": "2024-03-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2VSBJPq9DNX2HERo1nBUZW",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0GHJ9U8QJERPiIaxxgKrH8"
+      },
+      "href": "https://api.spotify.com/v1/albums/0GHJ9U8QJERPiIaxxgKrH8",
+      "id": "0GHJ9U8QJERPiIaxxgKrH8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27392ff0f8af66806743fb2291b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0292ff0f8af66806743fb2291b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485192ff0f8af66806743fb2291b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rasakan Nikmatnya Hidup",
+      "release_date": "2023-08-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0GHJ9U8QJERPiIaxxgKrH8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 4,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
+      },
+      "href": "https://api.spotify.com/v1/albums/02f1wRPbpqbqiaCKqAuW3P",
+      "id": "02f1wRPbpqbqiaCKqAuW3P",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2739287b2d10b97ebb3492ef463",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e029287b2d10b97ebb3492ef463",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048519287b2d10b97ebb3492ef463",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Kami Khawatir, Kawan",
+      "release_date": "2023-06-02",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:02f1wRPbpqbqiaCKqAuW3P",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 3,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1Qes5yXkUVK0L7w681emMr"
+      },
+      "href": "https://api.spotify.com/v1/albums/1Qes5yXkUVK0L7w681emMr",
+      "id": "1Qes5yXkUVK0L7w681emMr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273fc0272f94b5f9bbfa24174dd",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02fc0272f94b5f9bbfa24174dd",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851fc0272f94b5f9bbfa24174dd",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Perkara Tubuh",
+      "release_date": "2023-05-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1Qes5yXkUVK0L7w681emMr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 2,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/3BzdHMiZsvce5iM3y1lflJ",
+      "id": "3BzdHMiZsvce5iM3y1lflJ",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273265942ba43207ca08a22b842",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02265942ba43207ca08a22b842",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851265942ba43207ca08a22b842",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Masalah Masa Depan",
+      "release_date": "2023-04-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3BzdHMiZsvce5iM3y1lflJ",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "album_group": "single"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+  },
+  "followers": {
+    "href": null,
+    "total": 8086566
+  },
+  "genres": [
+    "indonesian indie",
+    "indonesian pop"
+  ],
+  "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+  "id": "51kyrUsAVqUBcoDEMFkX12",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8022c4a018990cd93a9ddfe0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051748022c4a018990cd93a9ddfe0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1788022c4a018990cd93a9ddfe0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "name": "Hindia",
+  "popularity": 81,
+  "type": "artist",
+  "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+}

@@ -1,0 +1,490 @@
+{
+  "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j/albums?offset=0&limit=10&market=ID&include_groups=album,single,compilation,appears_on",
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j/albums?offset=10&limit=10&market=ID&include_groups=album,single,compilation,appears_on",
+  "offset": 0,
+  "previous": null,
+  "total": 18,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 16,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D"
+      },
+      "href": "https://api.spotify.com/v1/albums/0jDClrox8tW0f2g82gVc3D",
+      "id": "0jDClrox8tW0f2g82gVc3D",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2730974d9c2ed2931adb196b25f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e020974d9c2ed2931adb196b25f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048510974d9c2ed2931adb196b25f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Obrolan Jam 3 Pagi",
+      "release_date": "2025-05-06",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0jDClrox8tW0f2g82gVc3D",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1I30JEs4UfRnYz0pzkKJpg"
+      },
+      "href": "https://api.spotify.com/v1/albums/1I30JEs4UfRnYz0pzkKJpg",
+      "id": "1I30JEs4UfRnYz0pzkKJpg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273e7ade99f8d4323ff427e654f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02e7ade99f8d4323ff427e654f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851e7ade99f8d4323ff427e654f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Selamat Datang di Ujung Dunia",
+      "release_date": "2021-03-26",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1I30JEs4UfRnYz0pzkKJpg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3As3ggTCinS2YTULKru48j"
+      },
+      "href": "https://api.spotify.com/v1/albums/3As3ggTCinS2YTULKru48j",
+      "id": "3As3ggTCinS2YTULKru48j",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27308155958da4d0aa4878e3dc6",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0208155958da4d0aa4878e3dc6",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485108155958da4d0aa4878e3dc6",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Sofa",
+      "release_date": "2025-02-18",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3As3ggTCinS2YTULKru48j",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 4,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
+      },
+      "href": "https://api.spotify.com/v1/albums/5UizfLMmPsJpezsjEnBd8J",
+      "id": "5UizfLMmPsJpezsjEnBd8J",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27330a6f838a45593c6651e5d7f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0230a6f838a45593c6651e5d7f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485130a6f838a45593c6651e5d7f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "release_date": "2024-09-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5UizfLMmPsJpezsjEnBd8J",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0V3gnXRk85cwiz9xvV7Nu6"
+      },
+      "href": "https://api.spotify.com/v1/albums/0V3gnXRk85cwiz9xvV7Nu6",
+      "id": "0V3gnXRk85cwiz9xvV7Nu6",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273515e7bebf0c4c1802251a37a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02515e7bebf0c4c1802251a37a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851515e7bebf0c4c1802251a37a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Menit Tambahan",
+      "release_date": "2024-06-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0V3gnXRk85cwiz9xvV7Nu6",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5JhRHRNwH2E9wRLPWuL2AF"
+      },
+      "href": "https://api.spotify.com/v1/albums/5JhRHRNwH2E9wRLPWuL2AF",
+      "id": "5JhRHRNwH2E9wRLPWuL2AF",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2735ae6907c61f36a30628ba789",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e025ae6907c61f36a30628ba789",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048515ae6907c61f36a30628ba789",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Selamanya",
+      "release_date": "2023-11-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5JhRHRNwH2E9wRLPWuL2AF",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 2,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/17msWboQwntlw4MsF9Oo4A"
+      },
+      "href": "https://api.spotify.com/v1/albums/17msWboQwntlw4MsF9Oo4A",
+      "id": "17msWboQwntlw4MsF9Oo4A",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27347f17847eff197541e241497",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0247f17847eff197541e241497",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485147f17847eff197541e241497",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rentang Asmara (Kinarya Lomba Sihir)",
+      "release_date": "2023-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:17msWboQwntlw4MsF9Oo4A",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4RSTuj15Y2BjrXR5fTDh2m"
+          },
+          "href": "https://api.spotify.com/v1/artists/4RSTuj15Y2BjrXR5fTDh2m",
+          "id": "4RSTuj15Y2BjrXR5fTDh2m",
+          "name": "Katon Bagaskara",
+          "type": "artist",
+          "uri": "spotify:artist:4RSTuj15Y2BjrXR5fTDh2m"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/14kOlzXpWXGqpmhb05NcyU"
+          },
+          "href": "https://api.spotify.com/v1/artists/14kOlzXpWXGqpmhb05NcyU",
+          "id": "14kOlzXpWXGqpmhb05NcyU",
+          "name": "Kla Project",
+          "type": "artist",
+          "uri": "spotify:artist:14kOlzXpWXGqpmhb05NcyU"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ZcVquEWwfVHmI1h35zf7b"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ZcVquEWwfVHmI1h35zf7b",
+      "id": "1ZcVquEWwfVHmI1h35zf7b",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8b85626d4da3f1ec1cd4a7f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8b85626d4da3f1ec1cd4a7f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a8b85626d4da3f1ec1cd4a7f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Beraksi",
+      "release_date": "2023-09-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1ZcVquEWwfVHmI1h35zf7b",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu"
+          },
+          "href": "https://api.spotify.com/v1/artists/6oMp2cGzP3Bw86ssV7hjyu",
+          "id": "6oMp2cGzP3Bw86ssV7hjyu",
+          "name": "Kotak",
+          "type": "artist",
+          "uri": "spotify:artist:6oMp2cGzP3Bw86ssV7hjyu"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3YXscjDnEOcbx5By0UCM2w"
+      },
+      "href": "https://api.spotify.com/v1/albums/3YXscjDnEOcbx5By0UCM2w",
+      "id": "3YXscjDnEOcbx5By0UCM2w",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2736062de27beabb8e0bc8e9cf2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e026062de27beabb8e0bc8e9cf2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048516062de27beabb8e0bc8e9cf2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Ribuan Memori",
+      "release_date": "2023-04-13",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3YXscjDnEOcbx5By0UCM2w",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 2,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4eEcA6cWRF0fJ318tkNwG8"
+      },
+      "href": "https://api.spotify.com/v1/albums/4eEcA6cWRF0fJ318tkNwG8",
+      "id": "4eEcA6cWRF0fJ318tkNwG8",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273bb547b3bcfac8952caf64224",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02bb547b3bcfac8952caf64224",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851bb547b3bcfac8952caf64224",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Pesona (Remastered 2022)",
+      "release_date": "2022-11-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4eEcA6cWRF0fJ318tkNwG8",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+          },
+          "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+          "id": "6wD3vtAV0P3gWB9zLs7I4j",
+          "name": "Lomba Sihir",
+          "type": "artist",
+          "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "album_group": "single"
+    }
+  ]
+}

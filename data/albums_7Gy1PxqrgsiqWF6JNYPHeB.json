@@ -1,0 +1,470 @@
+{
+  "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB/albums?offset=0&limit=10&market=ID&include_groups=album,single,compilation,appears_on",
+  "limit": 10,
+  "next": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB/albums?offset=10&limit=10&market=ID&include_groups=album,single,compilation,appears_on",
+  "offset": 0,
+  "previous": null,
+  "total": 32,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 15,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86"
+      },
+      "href": "https://api.spotify.com/v1/albums/0y9i2KHDYh2gKfbpUNiM86",
+      "id": "0y9i2KHDYh2gKfbpUNiM86",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c800b90e2092a5328f699117",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c800b90e2092a5328f699117",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c800b90e2092a5328f699117",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Membangun & Menghancurkan",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0y9i2KHDYh2gKfbpUNiM86",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2fqv7Stqd451vyQR9qr4HX"
+      },
+      "href": "https://api.spotify.com/v1/albums/2fqv7Stqd451vyQR9qr4HX",
+      "id": "2fqv7Stqd451vyQR9qr4HX",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a4733ecc65877e3481ef7639",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a4733ecc65877e3481ef7639",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a4733ecc65877e3481ef7639",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Abdi Lara Insani: Edisi Lengkap",
+      "release_date": "2022-08-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2fqv7Stqd451vyQR9qr4HX",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 8,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0OKRjCw5ZtEFDIhPGvEyae"
+      },
+      "href": "https://api.spotify.com/v1/albums/0OKRjCw5ZtEFDIhPGvEyae",
+      "id": "0OKRjCw5ZtEFDIhPGvEyae",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273471f8a4822a3ca180612d006",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02471f8a4822a3ca180612d006",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851471f8a4822a3ca180612d006",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Abdi Lara Insani",
+      "release_date": "2022-04-22",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0OKRjCw5ZtEFDIhPGvEyae",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 7,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/57tZrOfbf4UZNwOKhWoXMG"
+      },
+      "href": "https://api.spotify.com/v1/albums/57tZrOfbf4UZNwOKhWoXMG",
+      "id": "57tZrOfbf4UZNwOKhWoXMG",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad94984aee514c3a40a83687",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02ad94984aee514c3a40a83687",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851ad94984aee514c3a40a83687",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Uang Muka",
+      "release_date": "2020-09-11",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:57tZrOfbf4UZNwOKhWoXMG",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 10,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e"
+      },
+      "href": "https://api.spotify.com/v1/albums/3OOL3zaZdN14LLDpzRWj8e",
+      "id": "3OOL3zaZdN14LLDpzRWj8e",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a139f95c8185d8f334424732",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a139f95c8185d8f334424732",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a139f95c8185d8f334424732",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "MULTIVERSES (Revisi Final Fix Banget)",
+      "release_date": "2020-01-31",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3OOL3zaZdN14LLDpzRWj8e",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4h4DOGY4fVzu3fQtQD3Twh"
+      },
+      "href": "https://api.spotify.com/v1/albums/4h4DOGY4fVzu3fQtQD3Twh",
+      "id": "4h4DOGY4fVzu3fQtQD3Twh",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273294edbecdaf7655528f685a1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02294edbecdaf7655528f685a1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851294edbecdaf7655528f685a1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Multiverses",
+      "release_date": "2017-09-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4h4DOGY4fVzu3fQtQD3Twh",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4"
+      },
+      "href": "https://api.spotify.com/v1/albums/2LVn7NDGoMSmFCkLqRK2o4",
+      "id": "2LVn7NDGoMSmFCkLqRK2o4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27339695d4c16489cdf60bef536",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0239695d4c16489cdf60bef536",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485139695d4c16489cdf60bef536",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Nina",
+      "release_date": "2024-07-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:2LVn7NDGoMSmFCkLqRK2o4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/51dxgbPZXg7VzrddgGWdGV"
+      },
+      "href": "https://api.spotify.com/v1/albums/51dxgbPZXg7VzrddgGWdGV",
+      "id": "51dxgbPZXg7VzrddgGWdGV",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27342a3ddf2017cbcb3b2a2e9d1",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0242a3ddf2017cbcb3b2a2e9d1",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485142a3ddf2017cbcb3b2a2e9d1",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Politrik",
+      "release_date": "2024-06-07",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:51dxgbPZXg7VzrddgGWdGV",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3AaZPd03LvFoBwV0OVhqDu"
+      },
+      "href": "https://api.spotify.com/v1/albums/3AaZPd03LvFoBwV0OVhqDu",
+      "id": "3AaZPd03LvFoBwV0OVhqDu",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273004a0ff5d1146ba612f9a210",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02004a0ff5d1146ba612f9a210",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851004a0ff5d1146ba612f9a210",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Konsekuens",
+      "release_date": "2024-05-03",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3AaZPd03LvFoBwV0OVhqDu",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "is_playable": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hHEfgCbxLGdTFDCm8XAKr"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hHEfgCbxLGdTFDCm8XAKr",
+      "id": "0hHEfgCbxLGdTFDCm8XAKr",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27381c46dd16c6823accec4c84e",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0281c46dd16c6823accec4c84e",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485181c46dd16c6823accec4c84e",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Tak Ada Wifi Di Alam Baka",
+      "release_date": "2023-11-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0hHEfgCbxLGdTFDCm8XAKr",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+          "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+          "name": ".Feast",
+          "type": "artist",
+          "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A"
+          },
+          "href": "https://api.spotify.com/v1/artists/4fhtyRoHvmNjXDIr7jCW0A",
+          "id": "4fhtyRoHvmNjXDIr7jCW0A",
+          "name": "Koil",
+          "type": "artist",
+          "uri": "spotify:artist:4fhtyRoHvmNjXDIr7jCW0A"
+        }
+      ],
+      "album_group": "single"
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        },
+        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+        "id": "1DAuVHMlBvIjzWZALSUXbn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Menari Dengan Bayangan",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 277457,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR96X1970882"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2wAiFWjRupWmnDkQcu91MF",
+      "id": "2wAiFWjRupWmnDkQcu91MF",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Rumah Ke Rumah",
+      "popularity": 85,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2wAiFWjRupWmnDkQcu91MF"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
+        },
+        "href": "https://api.spotify.com/v1/albums/2kgo1jbmAmaANgE8EaIrKX",
+        "id": "2kgo1jbmAmaANgE8EaIrKX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d58121433ea3e6c4822ac494",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d58121433ea3e6c4822ac494",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d58121433ea3e6c4822ac494",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Lagipula Hidup Akan Berakhir",
+        "release_date": "2023-07-07",
+        "release_date_precision": "day",
+        "total_tracks": 14,
+        "type": "album",
+        "uri": "spotify:album:2kgo1jbmAmaANgE8EaIrKX"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 266330,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FRX872372690"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7J0isBrUxhIYZVdrBOOlIh",
+      "id": "7J0isBrUxhIYZVdrBOOlIh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Cincin",
+      "popularity": 84,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU"
+        },
+        "href": "https://api.spotify.com/v1/albums/6HiRRMXgflIyrpjCiPW8rU",
+        "id": "6HiRRMXgflIyrpjCiPW8rU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305898628baab6ef07a0a4d03",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205898628baab6ef07a0a4d03",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105898628baab6ef07a0a4d03",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Doves, '25 on Blank Canvas",
+        "release_date": "2025-02-24",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6HiRRMXgflIyrpjCiPW8rU"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 236489,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR10S2592467"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5WOSNVChcadlsCRiqXE45K",
+      "id": "5WOSNVChcadlsCRiqXE45K",
+      "is_local": false,
+      "is_playable": true,
+      "name": "everything u are",
+      "popularity": 83,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5WOSNVChcadlsCRiqXE45K"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        },
+        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+        "id": "1DAuVHMlBvIjzWZALSUXbn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Menari Dengan Bayangan",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 194469,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR10S1991700"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2dIBMHByUGcNPzmYBJ6OAj",
+      "id": "2dIBMHByUGcNPzmYBJ6OAj",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Evaluasi",
+      "popularity": 82,
+      "preview_url": null,
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:2dIBMHByUGcNPzmYBJ6OAj"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU"
+        },
+        "href": "https://api.spotify.com/v1/albums/6HiRRMXgflIyrpjCiPW8rU",
+        "id": "6HiRRMXgflIyrpjCiPW8rU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305898628baab6ef07a0a4d03",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205898628baab6ef07a0a4d03",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105898628baab6ef07a0a4d03",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Doves, '25 on Blank Canvas",
+        "release_date": "2025-02-24",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:6HiRRMXgflIyrpjCiPW8rU"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238514,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR10S2592472"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/63VnhcHMnTPCcd24oVajL6",
+      "id": "63VnhcHMnTPCcd24oVajL6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "semua lagu cinta terdengar sama",
+      "popularity": 82,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:63VnhcHMnTPCcd24oVajL6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        },
+        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+        "id": "1DAuVHMlBvIjzWZALSUXbn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Menari Dengan Bayangan",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 205466,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR2X41956005"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5drW6PGRxkE6MxttzVLNk5"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5drW6PGRxkE6MxttzVLNk5",
+      "id": "5drW6PGRxkE6MxttzVLNk5",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Secukupnya",
+      "popularity": 80,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5drW6PGRxkE6MxttzVLNk5"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8"
+        },
+        "href": "https://api.spotify.com/v1/albums/0DMdiWcqnutCi81EqBXkF8",
+        "id": "0DMdiWcqnutCi81EqBXkF8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27349bdf0e981cbba25d48b44e0",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0249bdf0e981cbba25d48b44e0",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485149bdf0e981cbba25d48b44e0",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Lagipula Hidup Akan Berakhir",
+        "release_date": "2023-07-21",
+        "release_date_precision": "day",
+        "total_tracks": 28,
+        "type": "album",
+        "uri": "spotify:album:0DMdiWcqnutCi81EqBXkF8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 282675,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA052349019"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5DqSZFvWvSWg5eyCDi0CuW",
+      "id": "5DqSZFvWvSWg5eyCDi0CuW",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kita Ke Sana",
+      "popularity": 79,
+      "preview_url": null,
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:5DqSZFvWvSWg5eyCDi0CuW"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        },
+        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+        "id": "1DAuVHMlBvIjzWZALSUXbn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Menari Dengan Bayangan",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl"
+          },
+          "href": "https://api.spotify.com/v1/artists/6mJII5SJlWEYnf7DY4Uywl",
+          "id": "6mJII5SJlWEYnf7DY4Uywl",
+          "name": "Rara Sekar",
+          "type": "artist",
+          "uri": "spotify:artist:6mJII5SJlWEYnf7DY4Uywl"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 373824,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR59R1964010"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3CBxVM0zGj41BQtE6m7gwb",
+      "id": "3CBxVM0zGj41BQtE6m7gwb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Membasuh",
+      "popularity": 76,
+      "preview_url": null,
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:3CBxVM0zGj41BQtE6m7gwb"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8"
+        },
+        "href": "https://api.spotify.com/v1/albums/0DMdiWcqnutCi81EqBXkF8",
+        "id": "0DMdiWcqnutCi81EqBXkF8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27349bdf0e981cbba25d48b44e0",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0249bdf0e981cbba25d48b44e0",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485149bdf0e981cbba25d48b44e0",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Lagipula Hidup Akan Berakhir",
+        "release_date": "2023-07-21",
+        "release_date_precision": "day",
+        "total_tracks": 28,
+        "type": "album",
+        "uri": "spotify:album:0DMdiWcqnutCi81EqBXkF8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 2,
+      "duration_ms": 224418,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "DGA052349020"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2SmKwCCSiUTjtR8I8rv6MS",
+      "id": "2SmKwCCSiUTjtR8I8rv6MS",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Berdansalah, Karir Ini Tak Ada Artinya",
+      "popularity": 76,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:2SmKwCCSiUTjtR8I8rv6MS"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        },
+        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+        "id": "1DAuVHMlBvIjzWZALSUXbn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Menari Dengan Bayangan",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          },
+          "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+          "id": "51kyrUsAVqUBcoDEMFkX12",
+          "name": "Hindia",
+          "type": "artist",
+          "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 208000,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "FR96X1970876"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bcIiU5FWRa2IYBqx0bk67"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bcIiU5FWRa2IYBqx0bk67",
+      "id": "1bcIiU5FWRa2IYBqx0bk67",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Evakuasi",
+      "popularity": 74,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1bcIiU5FWRa2IYBqx0bk67"
+    }
+  ]
+}
