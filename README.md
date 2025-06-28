@@ -21,6 +21,8 @@ src/
   transform.py      # Transform and normalize data
   load.py           # Load data into SQLite
   EDA.ipynb         # Data exploration with SQL
+  hindia_spotify.db # SQLite database
+  env               # Spotify API credentials
 data/
   artist_*.json     # Raw extract per artist
   albums_*.json
@@ -32,8 +34,6 @@ data/
   artist_genre.csv
   album_artist.csv
   track_artist.csv
-hindia_spotify.db   # SQLite database
-.env                # Spotify API credentials
 ```
 
 ## How to Run
@@ -43,7 +43,7 @@ hindia_spotify.db   # SQLite database
    pip install -r requirements.txt
    ```
 
-2. **Prepare the `.env` file**  
+2. **Prepare the `env` file**  
    Fill with:
    ```
    CLIENT_ID=your_spotify_client_id
