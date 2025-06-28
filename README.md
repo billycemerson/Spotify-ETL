@@ -30,7 +30,6 @@ data/
   artist.csv        # Normalized tables
   album.csv
   track.csv
-  genre.csv
   artist_genre.csv
   album_artist.csv
   track_artist.csv
